@@ -1,0 +1,43 @@
+# Python 虛擬環境
+env/
+venv/
+ENV/
+.venv/
+
+# Python 快取檔案
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 個人資料和 JSON 輸出
+training_data.json
+*.json
+output/
+個人資料/
+
+# 個資資料夾
+生平簡介/
+程式編寫/
+職訓班課程/
+
+# IDE 設定檔
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 作業系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日誌檔案
+*.log
+
+# 臨時檔案
+*.tmp
+*.temp
+
